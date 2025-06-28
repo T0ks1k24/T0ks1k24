@@ -21,6 +21,8 @@ I am a passionate Backend Developer who loves writing code and learning about di
   <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="SQL" width="50" height="50"/>
   <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=bash" alt="Bash" width="50" height="50"/>
 </div>
 <div align="center">
   <h3><strong>Version Control & Collaboration</strong></h3>
