@@ -1,9 +1,13 @@
-Hi there, I'm Anton 👋
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Junior+Developer;Code+Enthusiast;Always+Learning+New+Tech;Problem+Solver" alt="Typing SVG" />
 </div>
-🚀 About Me
+<div align="center">
+<h1><strong>🚀 About Me</strong></h1>
+</div>
+<div align="center">
 I am a passionate Junior Developer who loves writing code and learning about different technologies! Every day brings new challenges and opportunities to learn, and I enthusiastically embrace them all. My path in software development is driven by curiosity and the satisfaction of solving complex problems with elegant code.
+  </div>
 <div align="center">
 <h2><strong>🛠️ Tech Stack</strong></h2>
 </div>
