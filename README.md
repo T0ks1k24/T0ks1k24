@@ -1,4 +1,3 @@
-
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Backend+Developer;Code+Enthusiast;Always+Learning+New+Tech;Problem+Solver" alt="Typing SVG" />
 </div>
@@ -37,7 +36,3 @@ I am a passionate Backend Developer who loves writing code and learning about di
   <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="50" height="50"/>
   <img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="50" height="50"/>
 </div>
-
-
-
-
