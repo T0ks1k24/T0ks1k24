@@ -2,49 +2,60 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3BA4F2&center=true&vCenter=true&width=650&lines=Backend+Developer;Python+%7C+FastAPI+%7C+Django;C%23+%7C+ASP.NET;DevOps+%7C+Cloud+%7C+Infrastructure;Building+Scalable+Backend+Systems" />
 
-<br><br>
-
-<b>Backend Engineer</b><br>
-APIs • Distributed Systems • Cloud Infrastructure • DevOps Automation
-
 </div>
-
-<br>
 
 ## ⚙️ Tech Stack
 
-<br>
+<table align="center">
+<tr>
+<td align="center" width="33%">
 
-<div align="center">
+**Backend**
 
-### 🚀 Backend
+<img src="https://skillicons.dev/icons?i=python,fastapi,django,cs,dotnet" height="45"/>
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,django,cs,dotnet" height="55"/>
+</td>
 
-<br><br>
+<td align="center" width="33%">
 
-### 🗄 Databases
+**Databases**
 
-<img src="https://skillicons.dev/icons?i=postgresql,mysql" height="55"/>
+<img src="https://skillicons.dev/icons?i=postgresql,mysql" height="45"/>
 
-<br><br>
+</td>
 
-### ☁️ Cloud
+<td align="center" width="33%">
 
-<img src="https://skillicons.dev/icons?i=aws,gcp" height="55"/>
+**Cloud**
 
-<br><br>
+<img src="https://skillicons.dev/icons?i=aws,gcp" height="45"/>
 
-### 🐳 DevOps & Infrastructure
+</td>
+</tr>
 
-<img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,nginx,terraform,ansible,jenkins" height="55"/>
+<tr>
+<td align="center">
 
-<br><br>
+**DevOps**
 
-### 🧰 Tooling
+<img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,nginx,terraform,ansible,jenkins" height="45"/>
 
-<img src="https://skillicons.dev/icons?i=git,github,gitlab,bash" height="55"/>
+</td>
 
-</div>
+<td align="center">
 
-<br>
+**About**
+
+<!-- тут ти потім вставиш текст -->
+
+</td>
+
+<td align="center">
+
+**Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,bash" height="45"/>
+
+</td>
+</tr>
+</table>
