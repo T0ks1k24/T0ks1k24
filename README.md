@@ -4,8 +4,6 @@
 
 </div>
 
-## ⚙️ Tech Stack
-
 <table align="center">
 <tr>
 <td align="center" width="33%">
@@ -42,11 +40,18 @@
 
 </td>
 
-<td align="center">
+  <td align="center">
 
-**About**
+<b>About</b>
 
-<!-- тут ти потім вставиш текст -->
+<div style="max-width:300px">
+
+Backend & DevOps engineer<br>
+building scalable APIs,<br>
+automating infrastructure<br>
+and working with cloud systems
+
+</div>
 
 </td>
 
