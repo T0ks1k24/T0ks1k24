@@ -18,7 +18,7 @@
 
 **Databases**
 
-<img src="https://skillicons.dev/icons?i=postgresql,mysql" height="45"/>
+<img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb" height="45"/>
 
 </td>
 
