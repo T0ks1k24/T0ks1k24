@@ -8,19 +8,25 @@ Backend & DevOps engineer building scalable APIs, automating infrastructure, and
 
 <br><br>
 
-<table>
+<table width="100%">
 <tr>
-<th align="center" width="20%">Languages</th>
-<th align="center" width="20%">Frameworks</th>
-<th align="center" width="20%">Databases</th>
-<th align="center" width="20%">DevOps & Cloud</th>
-<th align="center" width="20%">Tools</th>
+<td align="center" width="20%"><b>Languages</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=python,cs,js" height="40"/></td>
 </tr>
 <tr>
-<td align="center"><img src="https://skillicons.dev/icons?i=python,cs,js,ts" height="40"/></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=fastapi,django,dotnet,nodejs" height="40"/></td>
+<td align="center"><b>Frameworks</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=fastapi,django,dotnet,react,nextjs" height="40"/></td>
+</tr>
+<tr>
+<td align="center"><b>Databases</b></td>
 <td align="center"><img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,redis" height="40"/></td>
+</tr>
+<tr>
+<td align="center"><b>DevOps & Cloud</b></td>
 <td align="center"><img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,terraform" height="40"/></td>
+</tr>
+<tr>
+<td align="center"><b>Tools</b></td>
 <td align="center"><img src="https://skillicons.dev/icons?i=git,github,gitlab,bash" height="40"/></td>
 </tr>
 </table>
