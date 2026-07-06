@@ -73,8 +73,7 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=%2540T0ks1k24&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="%40T0ks1k24's GitHub Stats" />
 
 <br>
 
