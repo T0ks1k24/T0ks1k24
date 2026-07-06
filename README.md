@@ -12,31 +12,71 @@ I'm a **Backend & DevOps engineer** building scalable APIs, automating infrastru
 
 <br>
 
-### Languages & Frameworks
+## Tech Stack
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,django,cs,dotnet" height="50"/>
+<table align="center">
+<tr>
+<td align="center" width="25%">
 
-### Databases
+**Backend**
 
-<img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,redis" height="50"/>
+<img src="https://skillicons.dev/icons?i=python,fastapi,django,cs,dotnet" height="48"/>
 
-### Cloud & DevOps
+</td>
+<td align="center" width="25%">
 
-<img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,terraform,ansible,nginx,jenkins" height="50"/>
+**Databases**
 
-### Tools
+<img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,redis" height="48"/>
 
-<img src="https://skillicons.dev/icons?i=linux,git,github,gitlab,bash" height="50"/>
+</td>
+<td align="center" width="25%">
+
+**Cloud**
+
+<img src="https://skillicons.dev/icons?i=aws,gcp" height="48"/>
+
+</td>
+<td align="center" width="25%">
+
+**DevOps**
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,ansible,nginx,jenkins" height="48"/>
+
+</td>
+</tr>
+<tr>
+<td align="center" colspan="4">
+
+**Tools**
+
+<img src="https://skillicons.dev/icons?i=linux,git,github,gitlab,bash" height="48"/>
+
+</td>
+</tr>
+</table>
 
 <br>
 
-### GitHub Stats
+## GitHub Stats
 
-<div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=T0ks1k24&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<table align="center">
+<tr>
+<td>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=T0ks1k24&show_icons=true&theme=tokyonight&hide_border=true" />
+
+</td>
+<td>
+
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=T0ks1k24&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
+
+</td>
+</tr>
+</table>
 
 <div align="center">
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=T0ks1k24&theme=tokyonight&hide_border=true" />
+
 </div>
