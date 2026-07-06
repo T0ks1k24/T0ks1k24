@@ -1,73 +1,79 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=3BA4F2&center=true&vCenter=true&width=650&lines=Backend+Developer;Python+%7C+FastAPI+%7C+Django;C%23+%7C+ASP.NET;DevOps+%7C+Cloud+%7C+Infrastructure;Building+Scalable+Backend+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=3BA4F2&center=true&vCenter=true&width=650&lines=Backend+Developer;Python+%7C+C%23+%7C+JavaScript;FastAPI+%7C+Django+%7C+ASP.NET;DevOps+%7C+Cloud+%7C+Infrastructure" alt="Typing SVG" />
+
+<br><br>
+
+Backend & DevOps engineer building scalable APIs, automating infrastructure, and working with cloud systems.
 
 </div>
 
 <br>
 
-## 👋 About Me
-
-- 🔭 Backend & DevOps engineer — building scalable APIs, automating infrastructure, and working with cloud systems
-- 🛠️ Core stack: **Python (FastAPI, Django)** and **C# (ASP.NET)**
-- ☁️ Experience with cloud providers, containerization, and CI/CD
-- 🐧 Primary development OS — **Linux**
-- 📈 Always exploring new approaches to backend architecture and DevOps practices
-
-<br>
-
-## 🧰 Tech Stack
-
 <table align="center">
 <tr>
-<td align="center" width="25%">
+<td align="center">
 
-**Backend**
+### Languages
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,django,cs,dotnet" height="48"/>
-
-</td>
-<td align="center" width="25%">
-
-**Databases**
-
-<img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb" height="48"/>
-
-</td>
-<td align="center" width="25%">
-
-**Cloud**
-
-<img src="https://skillicons.dev/icons?i=aws,gcp" height="48"/>
-
-</td>
-<td align="center" width="25%">
-
-**DevOps**
-
-<img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,nginx,terraform,ansible,jenkins" height="48"/>
-
-</td>
-</tr>
-<tr>
-<td align="center" colspan="2">
-
-**Tools & VCS**
-
-<img src="https://skillicons.dev/icons?i=git,github,gitlab,bash" height="48"/>
-
-</td>
-<td align="center" colspan="2">
-
-**Other**
-
-<img src="https://skillicons.dev/icons?i=vscode,postman,redis,nginx" height="48"/>
+<img src="https://skillicons.dev/icons?i=python,cs,js,ts,sql" height="55"/>
 
 </td>
 </tr>
 </table>
 
+<br>
 
-<div align="center">
+<table align="center">
+<tr>
+<td align="center">
 
-</div>
+### Frameworks
+
+<img src="https://skillicons.dev/icons?i=fastapi,django,dotnet,nodejs" height="55"/>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<table align="center">
+<tr>
+<td align="center">
+
+### Databases
+
+<img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,redis" height="55"/>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<table align="center">
+<tr>
+<td align="center">
+
+### DevOps & Cloud
+
+<img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,nginx,terraform,ansible,jenkins,aws,gcp" height="55"/>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<table align="center">
+<tr>
+<td align="center">
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,bash" height="55"/>
+
+</td>
+</tr>
+</table>
