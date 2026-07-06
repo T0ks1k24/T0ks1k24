@@ -67,21 +67,6 @@
 </tr>
 </table>
 
-<br>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=%2540T0ks1k24&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="%40T0ks1k24's GitHub Stats" />
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<br>
 
 <div align="center">
 
