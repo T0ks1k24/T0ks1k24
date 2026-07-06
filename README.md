@@ -6,74 +6,23 @@
 
 Backend & DevOps engineer building scalable APIs, automating infrastructure, and working with cloud systems.
 
+<br><br>
+
+<table>
+<tr>
+<th align="center" width="20%">Languages</th>
+<th align="center" width="20%">Frameworks</th>
+<th align="center" width="20%">Databases</th>
+<th align="center" width="20%">DevOps & Cloud</th>
+<th align="center" width="20%">Tools</th>
+</tr>
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=python,cs,js,ts" height="40"/></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=fastapi,django,dotnet,nodejs" height="40"/></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,redis" height="40"/></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,terraform" height="40"/></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=git,github,gitlab,bash" height="40"/></td>
+</tr>
+</table>
+
 </div>
-
-<br>
-
-<table align="center">
-<tr>
-<td align="center">
-
-### Languages
-
-<img src="https://skillicons.dev/icons?i=python,cs,js,ts,sql" height="55"/>
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<table align="center">
-<tr>
-<td align="center">
-
-### Frameworks
-
-<img src="https://skillicons.dev/icons?i=fastapi,django,dotnet,nodejs" height="55"/>
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<table align="center">
-<tr>
-<td align="center">
-
-### Databases
-
-<img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,redis" height="55"/>
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<table align="center">
-<tr>
-<td align="center">
-
-### DevOps & Cloud
-
-<img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,nginx,terraform,ansible,jenkins,aws,gcp" height="55"/>
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<table align="center">
-<tr>
-<td align="center">
-
-### Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,gitlab,bash" height="55"/>
-
-</td>
-</tr>
-</table>
