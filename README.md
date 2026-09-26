@@ -71,32 +71,32 @@ If you find my projects useful, you can support my work with crypto.
 
 <table>
 <tr>
-<td align="center">
 
-### ₿ Bitcoin
+<td align="center" width="50%">
 
 <img src="https://img.shields.io/badge/Bitcoin-BTC-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white"/>
 
-`bc1qyra8sz3w8d5g7p4f7aa0w5dyljehkqx0wq80kn`
+<br><br>
+
+<code>bc1qyra8sz3w8d5g7p4f7aa0w5dyljehkqx0wq80kn</code>
 
 </td>
-</tr>
 
-<tr>
-<td align="center">
-
-### Ξ Ethereum
+<td align="center" width="50%">
 
 <img src="https://img.shields.io/badge/Ethereum-ETH-627EEA?style=for-the-badge&logo=ethereum&logoColor=white"/>
 
-`0xd157d0212D99a82A8597Ea053EE5EF0926da6B30`
+<br><br>
+
+<code>0xd157d0212D99a82A8597Ea053EE5EF0926da6B30</code>
 
 </td>
+
 </tr>
 </table>
 
 <br>
 
-<sub>Thanks for supporting open-source development ❤️</sub>
+<sub>Thanks for supporting my projects ❤️</sub>
 
 </div>
