@@ -12,7 +12,7 @@
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=python,cs,js" height="45"/>
+<img src="https://skillicons.dev/icons?i=python,cs,js,rust" height="45"/>
 
 </td>
 <td align="center" width="33%">
