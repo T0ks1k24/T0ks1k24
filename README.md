@@ -64,10 +64,8 @@ and working with cloud systems
 <div align="center">
 
 ## ☕ Support My Work
+If you find my projects useful, you can support my work with crypto
 
-If you find my projects useful, you can support my work with crypto.
-
-<br>
 
 <table>
 <tr>
@@ -93,8 +91,6 @@ If you find my projects useful, you can support my work with crypto.
 
 </tr>
 </table>
-
-<br>
 
 <sub>Thanks for supporting my projects ❤️</sub>
 
