@@ -22,12 +22,12 @@ backend_dev // devops // security learner
 ┌──[ stack ]─────────────────────────────────────────┬──[ security ]────────────────────────────────────────┐
 │                                                    │                                                      │
 │  languages   python · c# · javascript · rust       │  networking  osi · tcp/ip · dns · http · subnetting  │
-│  frameworks  fastapi · django · asp.net            │  linux       cli · permissions · processes · bash    │
-│              react · next.js                       │  windows     fundamentals · registry · processes     │
-│  databases   postgresql · mysql · mongodb · redis  │  recon       nmap · service enumeration · wireshark  │
+│  backend     fastapi · django · asp.net            │  linux       cli · permissions · processes · bash    │
+│  frontend    react · next.js                       │  windows     fundamentals · registry · processes     │
+│  database    postgresql · mysql · mongodb · redis  │  recon       nmap · service enumeration · wireshark  │
 │  devops      linux · docker · kubernetes · nginx   │  web         owasp top 10 · burp suite · sqli · xss  │
 │              terraform · ansible · jenkins         │  crypto      hashing · encryption · tls · pki        │
-│              aws · gcp                             │  defense     soc basics · logs · incident response   │
+│  cloud       aws · gcp                             │  defense     soc basics · logs · incident response   │
 │  tools       git · github · gitlab · bash          │                                                      │
 │                                                    │                                                      │
 ├──[ about ]─────────────────────────────────────────┼──[ now ]─────────────────────────────────────────────┤
