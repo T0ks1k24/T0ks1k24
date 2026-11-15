@@ -1,97 +1,65 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=3BA4F2&center=true&vCenter=true&width=650&lines=Backend+Developer;Python+%7C+C%23+%7C+JavaScript;FastAPI+%7C+Django+%7C+ASP.NET;DevOps+%7C+Cloud+%7C+Infrastructure" alt="Typing SVG" />
+```
+████████╗ ██████╗ ██╗  ██╗███████╗ ██╗██╗  ██╗██████╗ ██╗  ██╗
+╚══██╔══╝██╔═████╗██║ ██╔╝██╔════╝███║██║ ██╔╝╚════██╗██║  ██║
+   ██║   ██║██╔██║█████╔╝ ███████╗╚██║█████╔╝  █████╔╝███████║
+   ██║   ████╔╝██║██╔═██╗ ╚════██║ ██║██╔═██╗ ██╔═══╝ ╚════██║
+   ██║   ╚██████╔╝██║  ██╗███████║ ██║██║  ██╗███████╗     ██║
+   ╚═╝    ╚═════╝ ╚═╝  ╚═╝╚══════╝ ╚═╝╚═╝  ╚═╝╚══════╝     ╚═╝
+```
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&width=650&lines=%3E+Hello%2C+friend.;Backend+%26+DevOps+engineer;Python+%7C+C%23+%7C+JavaScript;APIs+%C2%B7+Cloud+%C2%B7+Infrastructure" alt="typing" />
 
 </div>
 
-<br>
+```console
+root@t0ks1k24:~# whoami
+backend_dev // devops // automation
+```
 
-<table align="center">
-<tr>
-<td align="center" width="33%">
+```
+┌──[ stack ]─────────────────────────────────────────────────┐
+│                                                            │
+│  languages   python · c# · javascript · rust               │
+│  frameworks  fastapi · django · asp.net · react · next.js  │
+│  databases   postgresql · mysql · mongodb · redis          │
+│  devops      linux · docker · kubernetes · nginx           │
+│              terraform · ansible · jenkins · aws · gcp     │
+│  tools       git · github · gitlab · bash                  │
+│                                                            │
+├──[ about ]─────────────────────────────────────────────────┤
+│                                                            │
+│  > backend & devops engineer                               │
+│  > building scalable APIs                                  │
+│  > automating infrastructure                               │
+│  > working with cloud systems                              │
+│  > learning security on the offensive & defensive side     │
+│                                                            │
+├──[ security  //  tryhackme ]───────────────────────────────┤
+│                                                            │
+│  networking  osi · tcp/ip · dns · http/s · subnetting      │
+│  linux       cli · permissions · processes · bash          │
+│  windows     fundamentals · registry · processes           │
+│  recon       nmap · service enumeration · wireshark        │
+│  web         owasp top 10 · burp suite · sqli · xss        │
+│  crypto      hashing · encryption · tls · pki              │
+│  defense     soc basics · logs · incident response         │
+│                                                            │
+├──[ now ]───────────────────────────────────────────────────┤
+│                                                            │
+│  learning    tryhackme paths · ctf practice                │
+│  building    apis · automation scripts · pipelines         │
+│  exploring   cloud & devops security                       │
+│                                                            │
+├──[ donate ]────────────────────────────────────────────────┤
+│                                                            │
+│  BTC  bc1qyra8sz3w8d5g7p4f7aa0w5dyljehkqx0wq80kn           │
+│  ETH  0xd157d0212D99a82A8597Ea053EE5EF0926da6B30           │
+│                                                            │
+└────────────────────────────────────────────────────────────┘
+```
 
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=python,cs,js,rust" height="45"/>
-
-</td>
-<td align="center" width="33%">
-
-**Frameworks**
-
-<img src="https://skillicons.dev/icons?i=fastapi,django,dotnet,react,nextjs" height="45"/>
-
-</td>
-<td align="center" width="33%">
-
-**Databases**
-
-<img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,redis" height="45"/>
-
-</td>
-</tr>
-
-<tr>
-<td align="center">
-
-**DevOps & Cloud**
-
-<img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,nginx,terraform,ansible,jenkins,aws,gcp" height="45"/>
-
-</td>
-<td align="center">
-
-**About**
-
-Backend & DevOps engineer<br>
-building scalable APIs,<br>
-automating infrastructure<br>
-and working with cloud systems
-
-</td>
-<td align="center">
-
-**Tools**
-
-<img src="https://skillicons.dev/icons?i=git,github,gitlab,bash" height="45"/>
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<div align="center">
-
-## ☕ Support My Work
-If you find my projects useful, you can support my work with crypto
-
-
-<table>
-<tr>
-
-<td align="center" width="50%">
-
-<img src="https://img.shields.io/badge/Bitcoin-BTC-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white"/>
-
-
-
-<code>bc1qyra8sz3w8d5g7p4f7aa0w5dyljehkqx0wq80kn</code>
-
-</td>
-
-<td align="center" width="50%">
-
-<img src="https://img.shields.io/badge/Ethereum-ETH-627EEA?style=for-the-badge&logo=ethereum&logoColor=white"/>
-
-
-<code>0xd157d0212D99a82A8597Ea053EE5EF0926da6B30</code>
-
-</td>
-
-</tr>
-</table>
-
-<sub>Thanks for supporting my projects ❤️</sub>
-
-</div>
+```console
+root@t0ks1k24:~# _
+```
