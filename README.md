@@ -9,7 +9,7 @@
    ╚═╝      ╚═════╝   ╚═╝  ╚═╝  ╚══════╝   ╚═╝  ╚═╝  ╚═╝  ╚══════╝       ╚═╝
 ```
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&width=650&lines=%3E+Hello%2C+friend.;Backend+%26+DevOps+engineer;Python+%7C+C%23+%7C+JavaScript;APIs+%C2%B7+Cloud+%C2%B7+Infrastructure" alt="typing" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&width=650&lines=%3E+Hello%2C+friend.;Backend+%26+DevOps+engineer;Python+%7C+C%23+%7C+JavaScript+Rust;APIs+%C2%B7+Cloud+%C2%B7+Infrastructure" alt="typing" />
 
 </div>
 
